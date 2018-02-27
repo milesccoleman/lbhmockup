@@ -13,10 +13,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-html { overflow-y: scroll; }
+html { overflow-y: scroll; 
+background-image: url('https://github.com/milesccoleman/lbhmockup/blob/master/bluprint.png?raw=true'); 
+  position: fixed; }
 body { 
-  background-image: url('https://github.com/milesccoleman/lbhmockup/blob/master/bluprint.png?raw=true'); 
-  position: fixed; 
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #313131;
   font-size: 62.5%; 
